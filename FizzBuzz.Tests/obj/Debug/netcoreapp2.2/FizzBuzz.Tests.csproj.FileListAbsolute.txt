@@ -1,0 +1,17 @@
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.deps.json
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.runtimeconfig.json
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.runtimeconfig.dev.json
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.dll
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.pdb
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.dll
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.pdb
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.csprojAssemblyReference.cache
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.csproj.CoreCompileInputs.cache
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.AssemblyInfoInputs.cache
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.AssemblyInfo.cs
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.csproj.CopyComplete
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.dll
+/Users/student/projects/unit-testing-using-nunit/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.pdb
